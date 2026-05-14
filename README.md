@@ -32,8 +32,3 @@ Delete user from database.
 ```bash
 npm install
 node app.js
-
-###Repository
-
-##GitHub repository:
-https://github.com/marphley/mongodb-atlas-lab
