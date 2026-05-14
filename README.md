@@ -1,33 +1,33 @@
-# MongoDB Atlas CRUD Laboratory
+# Лабораторная работа MongoDB Atlas CRUD
 
-Student: Uneys Shingharov
+Студент: Uneys Shingharov
 
-## Description
+## Описание работы
 
-This laboratory work demonstrates working with MongoDB Atlas cloud database and performing CRUD operations using Node.js.
+В данной лабораторной работе выполнено подключение к облачной базе данных MongoDB Atlas и реализованы CRUD-операции с использованием Node.js.
 
-## Technologies
+## Используемые технологии
 
 - MongoDB Atlas
 - Node.js
 - MongoDB Driver
 - dotenv
 
-## CRUD Operations
+## Выполненные CRUD-операции
 
 ### Create
-Insert user into database.
+Добавление пользователя в базу данных.
 
 ### Read
-Read all users from database.
+Получение списка пользователей из базы данных.
 
 ### Update
-Update user information.
+Обновление данных пользователя.
 
 ### Delete
-Delete user from database.
+Удаление пользователя из базы данных.
 
-## Run Project
+## Запуск проекта
 
 ```bash
 npm install
